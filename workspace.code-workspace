@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "jgossage.github.io",
+			"name": "Repository"
+		}
+	],
+	"settings": {
+	        "editor.fontSize": 16,
+            "editor.cursorStyle": "block",
+            "editor.wordWrap": "wordWrapColumn"
+	}
+}
