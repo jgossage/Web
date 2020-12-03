@@ -10,6 +10,6 @@ wich I have. Anyone else will need to adapt some of the details described in
 this blog to their environment.
 
 The blog has three parts:
-# General Principles
-# My Website
-# Building My Website
+# [General Principles](./GeneralPrinciples)
+# [My Website](./WebsiteNature)
+# [Building My Website](./WebsiteConstruction)
