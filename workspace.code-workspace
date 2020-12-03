@@ -5,7 +5,8 @@
 		},
 		{
 			"path": "jgossage.github.io",
-			"name": "Repository"
+			"name"
+			: "Repository"
 		}
 	],
 	"settings": {
