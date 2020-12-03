@@ -85,25 +85,8 @@ for generating website content locally and for general maintenance of my compute
     This makes your *GitHub* repository capable of containing the source
     material for your website.
 ### Make Your `GitHub` Repository be a `GitHub Pages` Source Repository
-    You need to access the `settings` for the repository. Scroll down the `settings` page until you find a section dealing with `GitHub Pages`.\
+    You need to access the `settings` for the repository. Scroll down the
+    `settings` page until you find a section dealing with `GitHub Pages`.\
     Then perform the following steps:
     * Turn on the `gh-pages` option.\
       You do this by specifying `gh-pages` as the selected `source` for your
-      site. If you have created a `gh-pages` branch in your repository, it will
-      appear as an option in the drop-down menu for `source`.
-    * Select the folder to use as your publishing source.\
-      You should have created this folder before you enable ``gh-pages``. If you
-      followed my recommendations, you will already have a folder named `/docs`
-      at the root of your repository. This directory will be used as the source
-      for content for your website so you may maintain other material that is
-      not directly related to your website in this repository.
-    * Make the newly created branch the default branch for `GitHub`.\
-      `GitHub` will have added some files to your repository at this point and
-      will enable the re-generation of your website each time you push your
-      local copy of your source repository to `GitHub`.
-    * Clone the repository on *GitHub* onto your local machine.\
-      The clone will be stored with the `gh-pages` branch enabled. If you want
-      to work with any other branch, such as `main` you must use the command
-      line `git checkout -b main origin/main` to make the branch have a locally accessible instance of that branch.
-    * Verify that you have the `gh-pages` branch checked out.
-    
