@@ -7,5 +7,15 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/jgossage.github.io": true
+    },
+    "settings": {
+        "editor.fontSize": 16,
+        "editor.cursorStyle": "block",
+        "editor.wordWrap": "wordWrapColumn",
+        "[markdown]": {
+            "editor.wordWrap": "bounded",
+            "editor.wordWrapColumn":80,
+            "editor.quickSuggestions": false
+        }
     }
 }

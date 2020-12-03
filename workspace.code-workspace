@@ -4,9 +4,5 @@
 			"path": "."
 		}
 	],
-	"settings": {
-	        "editor.fontSize": 16,
-            "editor.cursorStyle": "block",
-			"editor.wordWrap": "wordWrapColumn"
-	}
+	"settings": {}
 }
