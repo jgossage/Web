@@ -7,5 +7,5 @@ The post has five parts and I suggest that you skip any part that is not relevan
 # [General Principles](./WebPrinciples)
 # [My Website](./WebsiteNature)
 # [Building My Website](./WebsiteConstruction)
-# Running My Website
-# Maintaining My Website
+# [Running My Website](./RunningWebsite)
+# [Maintaining My Website](./WebsiteMaintenance)
