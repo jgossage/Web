@@ -1,1 +1,0 @@
-This fragment will describe how I maintain my website.
